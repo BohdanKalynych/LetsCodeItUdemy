@@ -1,0 +1,603 @@
+06/24/2019 09:43:29 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 09:43:29 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 09:43:32 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 09:43:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 09:43:32 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 09:43:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 09:43:32 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 09:43:35 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 09:43:35 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 09:43:36 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 09:43:36 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 09:43:36 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 09:43:36 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 09:43:37 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 09:43:37 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@id='credit_card_number'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //div[@id='credit_card_number'] locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@id='expiration'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //div[@id='expiration'] locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@id='cvc'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //div[@id='cvc'] locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@id='postal'] and  locatorType: xpath
+06/24/2019 09:43:39 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //div[@id='postal'] locatorType: xpath
+06/24/2019 09:43:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 09:43:42 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 09:43:42 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+06/24/2019 09:43:42 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+06/24/2019 09:43:42 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 09:43:53 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+06/24/2019 09:43:53 PM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: xpath
+06/24/2019 09:43:53 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed verification 
+06/24/2019 09:43:54 PM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Enrollment Failed verification .1561401833561.png
+06/24/2019 09:43:54 PM - TestStatus - ERROR: test_invallid_enrollment ### TEST FAILED
+06/24/2019 10:18:31 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:18:31 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:18:34 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:18:34 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:18:34 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:18:34 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:18:34 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:18:37 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:18:37 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:18:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:18:37 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:18:37 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:18:37 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:18:38 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:18:38 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:18:41 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:18:41 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 10:33:59 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:33:59 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:34:01 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:34:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:34:01 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:34:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:34:01 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:34:05 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:34:05 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:34:05 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:34:05 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:34:05 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:34:05 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:34:06 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:34:06 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:34:09 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:34:09 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 10:35:12 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:35:12 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:35:14 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:35:14 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:35:14 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:35:14 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:35:14 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:35:18 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:35:18 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:35:18 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:35:18 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:35:18 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:35:18 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:35:19 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:35:19 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:35:22 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:35:22 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 10:36:50 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:36:50 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:36:52 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:36:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:36:52 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:36:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:36:52 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:36:55 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:36:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:36:56 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:36:56 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:36:56 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:36:56 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:36:56 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:36:57 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:36:59 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:37:00 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 10:42:48 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:42:49 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:42:52 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:42:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:42:52 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:42:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:42:52 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:42:55 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:42:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:42:56 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:42:56 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:42:56 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:42:56 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:42:56 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:42:57 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:43:00 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:43:00 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 10:47:35 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:47:35 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:47:38 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:47:38 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:47:38 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:47:38 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:47:38 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:47:42 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:47:42 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:47:42 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:47:42 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:47:42 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:47:42 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:47:43 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:47:43 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:47:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:47:46 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/24/2019 10:53:12 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/24/2019 10:53:12 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/24/2019 10:53:14 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/24/2019 10:53:14 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/24/2019 10:53:14 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/24/2019 10:53:14 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/24/2019 10:53:14 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/24/2019 10:53:19 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/24/2019 10:53:19 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/24/2019 10:53:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/24/2019 10:53:19 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/24/2019 10:53:20 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/24/2019 10:53:20 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/24/2019 10:53:21 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/24/2019 10:53:21 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/24/2019 10:53:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/24/2019 10:53:23 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/27/2019 06:58:49 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/27/2019 06:58:49 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/27/2019 06:58:51 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/27/2019 06:58:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/27/2019 06:58:52 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/27/2019 06:58:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/27/2019 06:58:52 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/27/2019 06:58:56 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/27/2019 06:58:56 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/27/2019 06:58:56 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/27/2019 06:58:56 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/27/2019 06:58:57 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/27/2019 06:58:57 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2019 06:58:57 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/27/2019 06:58:57 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/27/2019 06:59:01 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/27/2019 06:59:01 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='dropdown_select'] and  locatorType: xpath
+06/27/2019 07:10:47 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+06/27/2019 07:10:47 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+06/27/2019 07:10:49 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+06/27/2019 07:10:50 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+06/27/2019 07:10:50 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+06/27/2019 07:10:50 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+06/27/2019 07:10:50 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+06/27/2019 07:10:53 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+06/27/2019 07:10:53 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+06/27/2019 07:10:53 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+06/27/2019 07:10:53 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/27/2019 07:10:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/27/2019 07:10:53 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2019 07:10:55 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/27/2019 07:10:55 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+06/27/2019 07:10:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+06/27/2019 07:11:01 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[@id='credit_card_number'] and  locatorType: xpath
+06/27/2019 07:11:01 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //div[@id='credit_card_number'] locatorType: xpath
+07/02/2019 10:51:01 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 10:51:01 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 10:51:04 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 10:51:04 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 10:51:04 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 10:51:04 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 10:51:04 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 10:51:07 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 10:51:07 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 10:51:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 10:51:08 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 10:51:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 10:51:08 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 10:51:09 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 10:51:09 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 10:51:12 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 10:51:12 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 10:51:12 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 10:54:13 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 10:54:13 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 10:54:16 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 10:54:16 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 10:54:16 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 10:54:16 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 10:54:16 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 10:54:20 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 10:54:20 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 10:54:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 10:54:20 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 10:54:20 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 10:54:20 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 10:54:22 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 10:54:22 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 10:54:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 10:54:25 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 10:54:25 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 10:54:57 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 10:54:58 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 10:55:00 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 10:55:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 10:55:01 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 10:55:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 10:55:01 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 10:55:05 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 10:55:05 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 10:55:06 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 10:55:06 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 10:55:06 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 10:55:06 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 10:55:06 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 10:55:06 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 10:55:09 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 10:55:09 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 10:55:09 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 10:56:40 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 10:56:40 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 10:56:42 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 10:56:42 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 10:56:42 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 10:56:42 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 10:56:42 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 10:56:47 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 10:56:47 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 10:56:47 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 10:56:47 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 10:56:47 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 10:56:47 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 10:56:48 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 10:56:48 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 10:56:51 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 10:56:51 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 10:56:52 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 10:59:37 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 10:59:37 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 10:59:40 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 10:59:40 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 10:59:40 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 10:59:40 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 10:59:40 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 10:59:44 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 10:59:44 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 10:59:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 10:59:44 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 10:59:44 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 10:59:44 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 10:59:45 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 10:59:45 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 10:59:48 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 10:59:48 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 10:59:48 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 11:00:19 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 11:00:19 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 11:00:22 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 11:00:22 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 11:00:22 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 11:00:22 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 11:00:22 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 11:00:26 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 11:00:26 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 11:00:26 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 11:00:26 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 11:00:26 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 11:00:26 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 11:00:27 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 11:00:27 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 11:00:29 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 11:01:01 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 11:01:01 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 11:01:03 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 11:01:03 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 11:01:03 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 11:01:03 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 11:01:03 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 11:01:07 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 11:01:07 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 11:01:07 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 11:01:07 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 11:01:07 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 11:01:07 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 11:01:08 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 11:01:08 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 11:01:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 11:01:11 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 11:01:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 11:03:12 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 11:03:12 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 11:03:15 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 11:03:15 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 11:03:15 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 11:03:15 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 11:03:15 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 11:03:19 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 11:03:19 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 11:03:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 11:03:19 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 11:03:19 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 11:03:19 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 11:03:20 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 11:03:20 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 11:03:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 11:03:23 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 11:03:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 11:06:34 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/02/2019 11:06:34 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/02/2019 11:06:37 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/02/2019 11:06:37 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/02/2019 11:06:37 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/02/2019 11:06:37 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/02/2019 11:06:37 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/02/2019 11:06:41 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/02/2019 11:06:41 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/02/2019 11:06:42 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/02/2019 11:06:42 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/02/2019 11:06:42 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/02/2019 11:06:42 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 11:06:43 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/02/2019 11:06:43 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card expiration date'] and  locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card expiration date'] locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card CVC/CVV'] and  locatorType: xpath
+07/02/2019 11:06:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card CVC/CVV'] locatorType: xpath
+07/02/2019 11:06:49 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@aria-label='Postal code'] and  locatorType: xpath
+07/02/2019 11:06:49 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@aria-label='Postal code'] locatorType: xpath
+07/02/2019 11:06:52 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/02/2019 11:06:52 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/02/2019 11:06:52 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+07/02/2019 11:06:52 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+07/02/2019 11:06:52 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/02/2019 11:07:03 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+07/02/2019 11:07:03 PM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: xpath
+07/02/2019 11:07:03 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed verification 
+07/02/2019 11:07:04 PM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Enrollment Failed verification .1562098023334.png
+07/02/2019 11:07:04 PM - TestStatus - ERROR: test_invallid_enrollment ### TEST FAILED
+07/03/2019 09:19:15 AM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/03/2019 09:19:15 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/03/2019 09:19:17 AM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/03/2019 09:19:17 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/03/2019 09:19:17 AM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/03/2019 09:19:17 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/03/2019 09:19:17 AM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/03/2019 09:19:21 AM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/03/2019 09:19:21 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/03/2019 09:19:21 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/03/2019 09:19:21 AM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/03/2019 09:19:21 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/03/2019 09:19:21 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/03/2019 09:19:23 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/03/2019 09:19:23 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card expiration date'] and  locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card expiration date'] locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card CVC/CVV'] and  locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card CVC/CVV'] locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+07/03/2019 09:19:26 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+07/03/2019 09:19:29 AM - RegisterCoursesPage - INFO: Element not found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/03/2019 09:19:29 AM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/03/2019 09:19:29 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+07/03/2019 09:19:30 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+07/03/2019 09:19:30 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/03/2019 09:19:40 AM - RegisterCoursesPage - INFO: Element not appeared on the web page
+07/03/2019 09:19:40 AM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: xpath
+07/03/2019 09:19:40 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed verification 
+07/03/2019 09:19:41 AM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Enrollment Failed verification .1562134780602.png
+07/03/2019 09:19:41 AM - TestStatus - ERROR: test_invallid_enrollment ### TEST FAILED
+07/03/2019 09:20:41 AM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/03/2019 09:20:41 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/03/2019 09:20:43 AM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/03/2019 09:20:43 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/03/2019 09:20:43 AM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/03/2019 09:20:43 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/03/2019 09:20:43 AM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/03/2019 09:20:47 AM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/03/2019 09:20:47 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/03/2019 09:20:47 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/03/2019 09:20:47 AM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/03/2019 09:20:47 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/03/2019 09:20:47 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/03/2019 09:20:48 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/03/2019 09:20:48 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card expiration date'] and  locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card expiration date'] locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card CVC/CVV'] and  locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card CVC/CVV'] locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+07/03/2019 09:20:51 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+07/03/2019 09:20:54 AM - RegisterCoursesPage - INFO: Element not found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/03/2019 09:20:54 AM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/03/2019 09:20:54 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+07/03/2019 09:20:54 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+07/03/2019 09:20:54 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/03/2019 09:21:05 AM - RegisterCoursesPage - INFO: Element not appeared on the web page
+07/03/2019 09:21:05 AM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: xpath
+07/03/2019 09:21:05 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed verification 
+07/03/2019 09:21:06 AM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Enrollment Failed verification .1562134865525.png
+07/03/2019 09:21:06 AM - TestStatus - ERROR: test_invallid_enrollment ### TEST FAILED
+07/03/2019 09:26:18 AM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+07/03/2019 09:26:18 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+07/03/2019 09:26:24 AM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+07/03/2019 09:26:24 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+07/03/2019 09:26:24 AM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+07/03/2019 09:26:24 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+07/03/2019 09:26:24 AM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/03/2019 09:26:27 AM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/03/2019 09:26:27 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+07/03/2019 09:26:27 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+07/03/2019 09:26:27 AM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+07/03/2019 09:26:27 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+07/03/2019 09:26:27 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/03/2019 09:26:28 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+07/03/2019 09:26:28 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/03/2019 09:26:31 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/03/2019 09:26:31 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/03/2019 09:26:31 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/03/2019 09:26:31 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+07/03/2019 09:26:31 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+07/03/2019 09:26:32 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card expiration date'] and  locatorType: xpath
+07/03/2019 09:26:32 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card expiration date'] locatorType: xpath
+07/03/2019 09:26:32 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@aria-label='Credit or debit card CVC/CVV'] and  locatorType: xpath
+07/03/2019 09:26:32 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@aria-label='Credit or debit card CVC/CVV'] locatorType: xpath
+07/03/2019 09:26:32 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+07/03/2019 09:26:32 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+07/03/2019 09:26:35 AM - RegisterCoursesPage - INFO: Element not found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+07/03/2019 09:26:35 AM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+07/03/2019 09:26:35 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+07/03/2019 09:26:35 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+07/03/2019 09:26:35 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/03/2019 09:26:45 AM - RegisterCoursesPage - INFO: Element not appeared on the web page
+07/03/2019 09:26:45 AM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: xpath
+07/03/2019 09:26:45 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed verification 
+07/03/2019 09:26:46 AM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Enrollment Failed verification .1562135206000.png
+07/03/2019 09:26:46 AM - TestStatus - ERROR: test_invallid_enrollment ### TEST FAILED
+10/20/2019 11:35:48 AM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 11:35:48 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 11:35:51 AM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 11:35:51 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 11:35:51 AM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 11:35:51 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 11:35:51 AM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 11:35:56 AM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 11:35:59 AM - LoginPage - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 11:35:59 AM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 11:36:02 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 11:36:02 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 11:36:05 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 11:36:05 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 11:36:08 AM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 11:36:08 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 11:36:11 AM - LoginPage - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 11:36:11 AM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 11:36:14 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 11:36:14 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 11:36:17 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 11:36:17 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 11:36:20 AM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 11:36:20 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 11:36:20 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+10/20/2019 11:36:20 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+10/20/2019 11:36:20 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+10/20/2019 11:36:20 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+10/20/2019 11:36:20 AM - LoginPage - INFO: Element found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 11:36:20 AM - LoginPage - INFO: Element present with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 11:36:20 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login is successful
+10/20/2019 11:36:20 AM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+10/20/2019 11:36:20 AM - LoginPage - INFO: Element found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 11:36:20 AM - LoginPage - INFO: Clicked on element with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 11:36:21 AM - LoginPage - INFO: Element found with locator: //a[@href='/sign_out'] and  locatorType: xpath
+10/20/2019 11:36:23 AM - LoginPage - INFO: Clicked on element with locator: //a[@href='/sign_out'] locatorType: xpath
+10/20/2019 11:36:26 AM - LoginPage - INFO: Element not found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 11:36:26 AM - LoginPage - INFO: Element not present with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 11:36:26 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Logout is successful
+10/20/2019 11:36:28 AM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Logout is successful.1571560586725.png
+10/20/2019 11:36:28 AM - TestStatus - ERROR: test_validLogout ### TEST FAILED
+10/20/2019 11:45:28 AM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 11:45:28 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 11:45:31 AM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 11:45:31 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 11:45:31 AM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 11:45:31 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 11:45:31 AM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 11:45:35 AM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 11:45:38 AM - LoginPage - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 11:45:38 AM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 11:45:41 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 11:45:41 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 11:45:44 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 11:45:44 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 11:45:47 AM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 11:45:47 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 11:45:50 AM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password.')] and  locatorType: xpath
+10/20/2019 11:45:50 AM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password.')] locatorType: xpath
+10/20/2019 11:45:50 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login is failed. Test passed
+10/20/2019 11:45:51 AM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Login is failed. Test passed.1571561150507.png
+10/20/2019 11:45:51 AM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+10/20/2019 11:45:54 AM - LoginPage - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 11:45:54 AM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 11:45:57 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 11:45:57 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 11:46:00 AM - LoginPage - INFO: Element not found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 11:46:00 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 11:46:03 AM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 11:46:03 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 11:46:03 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+10/20/2019 11:46:03 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+10/20/2019 11:46:03 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+10/20/2019 11:46:03 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+10/20/2019 11:46:03 AM - LoginPage - INFO: Element found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 11:46:03 AM - LoginPage - INFO: Element present with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 11:46:03 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login is successful
+10/20/2019 11:46:03 AM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+10/20/2019 11:46:03 AM - LoginPage - INFO: Element found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 11:46:06 AM - LoginPage - INFO: Clicked on element with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 11:46:07 AM - LoginPage - INFO: Element found with locator: //a[@href='/sign_out'] and  locatorType: xpath
+10/20/2019 11:46:09 AM - LoginPage - INFO: Clicked on element with locator: //a[@href='/sign_out'] locatorType: xpath
+10/20/2019 11:46:12 AM - LoginPage - INFO: Element not found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 11:46:12 AM - LoginPage - INFO: Element not present with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 11:46:12 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Logout is successful
+10/20/2019 11:46:14 AM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Logout is successful.1571561172290.png
+10/20/2019 11:46:14 AM - TestStatus - ERROR: test_validLogout ### TEST FAILED
+10/20/2019 03:47:51 PM - LoginPage - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 03:47:51 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 03:47:55 PM - LoginPage - INFO: Element found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 03:47:55 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 03:47:55 PM - LoginPage - INFO: Element found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 03:47:55 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 03:47:55 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 03:47:58 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 03:48:01 PM - LoginPage - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 03:48:01 PM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 03:48:04 PM - LoginPage - INFO: Element not found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 03:48:04 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 03:48:07 PM - LoginPage - INFO: Element not found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 03:48:07 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 03:48:10 PM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 03:48:10 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 03:48:13 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password.')] and  locatorType: xpath
+10/20/2019 03:48:13 PM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password.')] locatorType: xpath
+10/20/2019 03:48:13 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login is failed. Test passed
+10/20/2019 03:48:14 PM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Login is failed. Test passed.1571575693977.png
+10/20/2019 03:48:14 PM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+10/20/2019 03:48:17 PM - LoginPage - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+10/20/2019 03:48:17 PM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+10/20/2019 03:48:20 PM - LoginPage - INFO: Element not found with locator: //input[@name='user[email]'] and  locatorType: xpath
+10/20/2019 03:48:20 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[email]'] locatorType: xpath
+10/20/2019 03:48:23 PM - LoginPage - INFO: Element not found with locator: //input[@name='user[password]'] and  locatorType: xpath
+10/20/2019 03:48:23 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='user[password]'] locatorType: xpath
+10/20/2019 03:48:26 PM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+10/20/2019 03:48:26 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+10/20/2019 03:48:26 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+10/20/2019 03:48:26 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+10/20/2019 03:48:26 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+10/20/2019 03:48:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+10/20/2019 03:48:26 PM - LoginPage - INFO: Element found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 03:48:26 PM - LoginPage - INFO: Element present with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 03:48:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login is successful
+10/20/2019 03:48:26 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+10/20/2019 03:48:26 PM - LoginPage - INFO: Element found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 03:48:26 PM - LoginPage - INFO: Clicked on element with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 03:48:28 PM - LoginPage - INFO: Element found with locator: //a[@href='/sign_out'] and  locatorType: xpath
+10/20/2019 03:48:30 PM - LoginPage - INFO: Clicked on element with locator: //a[@href='/sign_out'] locatorType: xpath
+10/20/2019 03:48:33 PM - LoginPage - INFO: Element not found with locator: //img[@class='gravatar'] and  locatorType: xpath
+10/20/2019 03:48:33 PM - LoginPage - INFO: Element not present with locator: //img[@class='gravatar'] locatorType: xpath
+10/20/2019 03:48:33 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Logout is successful
+10/20/2019 03:48:35 PM - TestStatus - INFO: Screenshot save to directory: /Users/bkalynych/PycharmProjects/letscodeitUdemy/base/../screenshots/Logout is successful.1571575713304.png
+10/20/2019 03:48:35 PM - TestStatus - ERROR: test_validLogout ### TEST FAILED

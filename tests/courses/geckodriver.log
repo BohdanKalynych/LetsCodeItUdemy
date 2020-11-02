@@ -1,0 +1,170 @@
+1574604970541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.ge5bcHLTqPtF"
+1574604972137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574604972138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574604972138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574604972138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574604974985	Marionette	INFO	Listening on port 56804
+1574604974996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: error
+1574604994764	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1574605621003	Marionette	INFO	Stopped listening on port 56804
+1574605648912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.EnneAFWWhKDe"
+1574605650059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574605650059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574605650059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574605650059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574605652006	Marionette	INFO	Listening on port 59911
+1574605652105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574605702351	Marionette	INFO	Stopped listening on port 59911
+1574606021499	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.u8ulihWWIWLG"
+1574606022742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574606022742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574606022742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574606022742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574606024538	Marionette	INFO	Listening on port 61735
+1574606024582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1574606052439	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: , line 0: uncaught exception: undefined
+1574607788081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.aP4lzWFtuxgB"
+1574607790584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574607790584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574607790584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574607790584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574607793325	Marionette	INFO	Listening on port 50994
+1574607793365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574607796134	Marionette	INFO	Stopped listening on port 61735
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1574607833683	Marionette	INFO	Stopped listening on port 50994
+1574607840283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.tuIvNNiDnuF6"
+1574607840969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574607840969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574607840969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574607840969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574607842725	Marionette	INFO	Listening on port 51349
+1574607842781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+1574607887117	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1574608179269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.H8NAbywe4rGE"
+1574608180535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574608180535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574608180536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574608180536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574608182502	Marionette	INFO	Listening on port 52917
+1574608182597	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15485, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574608187929	Marionette	INFO	Stopped listening on port 51349
+1574608192605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.NOHYprISlLEG"
+1574608193141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574608193141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574608193141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574608193141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574608195165	Marionette	INFO	Listening on port 53032
+1574608195186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/fingerprinted/js/controller-064e395f762ed83315e481177c16c6b0.js, line 1: ReferenceError: webpackJsonp is not defined
+1574608236936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 81: Error: Connection closed, pending request to server0.conn0.child1/highlighter24, type hideBoxModel failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:176:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+unhighlight@resource://devtools/shared/fronts/highlighters.js:95:18
+onHideBoxModelHighlighter@resource://devtools/client/inspector/boxmodel/box-model.js:243:32
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 81: Error: Connection closed, pending request to server0.conn0.child1/highlighter24, type showBoxModel failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:176:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+highlight@resource://devtools/shared/fronts/highlighters.js:77:16
+onShowBoxModelHighlighter@resource://devtools/client/inspector/boxmodel/box-model.js:409:32
+onHighlightMouseOver@resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js:289:16
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 81: Error: Connection closed, pending request to server0.conn0.child1/highlighter24, type hideBoxModel failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:176:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+unhighlight@resource://devtools/shared/fronts/highlighters.js:95:18
+onHideBoxModelHighlighter@resource://devtools/client/inspector/boxmodel/box-model.js:243:32
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+permitUnload@resource://gre/actors/BrowserElementParent.jsm:224:19
+permitUnload@chrome://global/content/elements/browser-custom-element.js:2035:43
+CanCloseWindow@chrome://browser/content/browser.js:8523:46
+canClose@chrome://browser/content/browser.js:6778:12
+
+1574608443283	Marionette	INFO	Stopped listening on port 53032
+1574608449822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.eh74NtI5tKm8"
+1574608450524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574608450524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574608450524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574608450524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574608452166	Marionette	INFO	Listening on port 54269
+1574608452208	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15680, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1574608498054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4v/9bsm1fd11_lb_rp49jw45dp80000gp/T/rust_mozprofile.58tGYqw1Hatj"
+1574608499106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574608499106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574608499106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574608499106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574608501096	Marionette	INFO	Listening on port 54633
+1574608501156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574608522979	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
